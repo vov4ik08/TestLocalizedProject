@@ -1,5 +1,5 @@
---temp-output:c:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\obj\Debug\netcoreapp1.0\
---out:c:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\bin\Debug\netcoreapp1.0\Project.dll
+--temp-output:C:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\obj\Debug\netcoreapp1.0\
+--out:C:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\bin\Debug\netcoreapp1.0\Project.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -196,9 +196,8 @@
 --reference:C:\Users\vov4ik08\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\vov4ik08\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\vov4ik08\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"c:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\obj\Debug\netcoreapp1.0\Projectdotnet-compile.deps.json",Project.deps.json
---resource:"c:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\obj\Debug\netcoreapp1.0\Project.Resources.ShareResource.resources",Project.Resources.ShareResource.resources
-c:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\Program.cs
-c:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\Startup.cs
-c:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\Controllers\HomeController.cs
-c:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\Resources\ShareResource.Designer.cs
+--resource:"C:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\obj\Debug\netcoreapp1.0\Projectdotnet-compile.deps.json",Project.deps.json
+C:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\Program.cs
+C:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\Startup.cs
+C:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\Controllers\HomeController.cs
+C:\Users\vov4ik08\documents\visual studio 2015\Projects\Project\src\Project\Resources\SharedResource.cs

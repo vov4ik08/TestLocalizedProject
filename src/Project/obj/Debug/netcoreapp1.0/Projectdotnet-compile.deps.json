@@ -2652,6 +2652,11 @@
         },
         "runtime": {
           "Project.dll": {}
+        },
+        "resources": {
+          "ru/Project.resources.dll": {
+            "locale": "ru"
+          }
         }
       },
       "Libuv/1.9.0": {

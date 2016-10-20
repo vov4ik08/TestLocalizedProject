@@ -35,6 +35,11 @@
         "runtime": {
           "Project.dll": {}
         },
+        "resources": {
+          "ru/Project.resources.dll": {
+            "locale": "ru"
+          }
+        },
         "compile": {
           "Project.dll": {}
         }
